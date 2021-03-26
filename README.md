@@ -1,8 +1,11 @@
 # ⚡ Rafael Angonese
 
 A Full Stack JavaScript Developer from Brazil 🚀.
+
 I have good experience with SPAs and RESTful APIs.
+
 Currently, I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Unochapeco University 🏛.
+
 I love to explore new technologies ✨.
 
 <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
