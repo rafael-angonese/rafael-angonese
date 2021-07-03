@@ -88,4 +88,4 @@ I love to explore new technologies ✨.
 [![rafael_angonese](https://img.shields.io/badge/-rafael__angonese-E4405F?&logo=Instagram&logoColor=white)](https://instagram.com/rafael_angonese)
 [![Rafaellll#6241](https://img.shields.io/badge/Rafaellll%236241-%237289DA.svg?logo=discord&logoColor=white)](Rafaellll#6241)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafael-angonese/rafael-angonese/blob/output/github-contribution-grid-snake.svg)
