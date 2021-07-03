@@ -1,6 +1,6 @@
 # ⚡ Rafael Angonese
 
-A Full Stack JavaScript Developer from Brazil 🚀.
+A Full Stack Developer from Brazil 🚀.
 
 I have good experience with SPAs and RESTful APIs.
 
@@ -8,7 +8,7 @@ Currently, I'm a final year student pursuing Bachelors's in Computer Science �
 
 I love to explore new technologies ✨.
 
-<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="20%" />
 
 ### ⚡ Tech Stack 🛠️ Languages and Tools
 
@@ -43,10 +43,8 @@ I love to explore new technologies ✨.
 
 **I'm currently learning:**
 - English
-- 🌱 🚀 ❤️ Interested and Learning all about: Nextjs Reactjs Nodejs Adonisjs Nestjs
-
-**I want to learn:** 
-- [![Trello](https://img.shields.io/badge/Trello_Roadmap_Study-%23026AA7.svg?logo=Trello&logoColor=white)](https://trello.com/b/UjLbc663/roadmap-rafael-angonese)
+- TDD, DDD, Clean Architecture, SOLID
+- 🌱 🚀 ❤️ Interested and Learning all about: Nextjs Reactjs Nodejs Adonisjs Nestjs React Native Flutter
 
 **Experiences:**
 - 👨🏻‍💻 Developer with more then 2 years experience.
@@ -69,7 +67,7 @@ I love to explore new technologies ✨.
   ![CSS3](https://img.shields.io/badge/-CSS3-black?&logo=Css3&logoColor=blue)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?&logo=JavaScript)
   ![Jquery](https://img.shields.io/badge/-Jquery-black?&logo=Jquery)
-- 💻 I worked 10 months (03/08/2020 a 01/06/2021) at GeoLife company with
+- 💻 I worked 10 months (03/08/2020 a 30/06/2021) at GeoLife company with
   ![React](https://img.shields.io/badge/-React-black?&logo=React)
   ![React_Native](https://img.shields.io/badge/-React_Native-black?&logo=React)
   ![Adonisjs](https://img.shields.io/badge/-Adonisjs-black?&logo=Adonisjs)
@@ -84,8 +82,6 @@ I love to explore new technologies ✨.
 ### 👣 Next Steps
 - ❤️ Connect with me :
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-angonese-12373a191/)](https://www.linkedin.com/in/rafael-angonese-12373a191/)
-[![Gmail](https://img.shields.io/badge/-rafael.angonese09@gmail.com-D14836?&logo=Gmail&logoColor=white)](mailto:rafael.angonese09@gmail.com)
 [![rafael_angonese](https://img.shields.io/badge/-rafael__angonese-E4405F?&logo=Instagram&logoColor=white)](https://instagram.com/rafael_angonese)
-[![Rafaellll#6241](https://img.shields.io/badge/Rafaellll%236241-%237289DA.svg?logo=discord&logoColor=white)](Rafaellll#6241)
 
 ![Snake animation](https://github.com/rafael-angonese/rafael-angonese/blob/output/github-contribution-grid-snake.svg)
