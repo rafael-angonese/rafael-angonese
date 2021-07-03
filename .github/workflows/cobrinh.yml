@@ -4,9 +4,11 @@ on:
   schedule:
     # execute every 12 hours
     - cron: "* */12 * * *"
+  workflow_dispatch:
 
 jobs:
-  generate:
+  build:
+    name: Jobs to update animation
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
