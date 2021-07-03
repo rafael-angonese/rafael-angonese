@@ -33,25 +33,13 @@ I love to explore new technologies ✨.
 - ![GraphQL](https://img.shields.io/badge/-GraphQL-black?&logo=Graphql&logoColor=e535ab)
   ![Socket.io](https://img.shields.io/badge/-Socket.io-black?&logo=socket.io)
 
-- ![Jest](https://img.shields.io/badge/-Jest-%23C21325?logo=jest&logoColor=white)
-
-- ![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white)
-  ![Gitlab](https://img.shields.io/badge/Gitlab-%23181717.svg?logo=gitlab&logoColor=white)
-
 - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
   ![Material_UI](https://img.shields.io/badge/Material_UI-%230081CB.svg?logo=material-ui&logoColor=white)
   ![Chakra_UI](https://img.shields.io/badge/-Chakra_UI-black?&logo=Chakra-ui)
   ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white)
-  <!-- ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white) -->
+  ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 
-- ![Amazon](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
-  ![S3](https://img.shields.io/badge/-S3-black?&logo=Amazon-s3)
-  ![EC2](https://img.shields.io/badge/-EC2-black?&logo=Amazon)
-
-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-  ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
 **I'm currently learning:**
 - English
@@ -99,3 +87,5 @@ I love to explore new technologies ✨.
 [![Gmail](https://img.shields.io/badge/-rafael.angonese09@gmail.com-D14836?&logo=Gmail&logoColor=white)](mailto:rafael.angonese09@gmail.com)
 [![rafael_angonese](https://img.shields.io/badge/-rafael__angonese-E4405F?&logo=Instagram&logoColor=white)](https://instagram.com/rafael_angonese)
 [![Rafaellll#6241](https://img.shields.io/badge/Rafaellll%236241-%237289DA.svg?logo=discord&logoColor=white)](Rafaellll#6241)
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
