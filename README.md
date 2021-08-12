@@ -2,15 +2,13 @@
 
 A Full-Stack Engineer from Brazil 🚀.
 
-I have good experience with SPAs and RESTful APIs.
-
-Currently, I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Unochapeco University 🏛.
-
 Creating worlds with letters and numbers 🌍.
 
 I'm fascinated by technology and nature 🌊.
 
-Who loves to apply his knowledge to solve problems, create amazing products and impact lives 🌱.
+I have good experience with SPAs and RESTful APIs.
+
+Currently, I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Unochapeco University 🏛.
 
 <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="20%" />
 
