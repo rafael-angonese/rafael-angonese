@@ -1,12 +1,16 @@
 # ⚡ Rafael Angonese
 
-A Full Stack Developer from Brazil 🚀.
+A Full-Stack Engineer from Brazil 🚀.
 
 I have good experience with SPAs and RESTful APIs.
 
 Currently, I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Unochapeco University 🏛.
 
-I love to explore new technologies ✨.
+Creating worlds with letters and numbers 🌍.
+
+I'm fascinated by technology and nature 🌊.
+
+Who loves to apply his knowledge to solve problems, create amazing products and impact lives 🌱.
 
 <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="20%" />
 
@@ -16,11 +20,12 @@ I love to explore new technologies ✨.
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?&logo=TypeScript)
   ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
 
-- ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-  ![Next.js](https://img.shields.io/badge/Nextjs-%23000000.svg?logo=next.js&logoColor=white)
+- ![Nextjs](https://img.shields.io/badge/Nextjs-%23000000.svg?logo=next.js&logoColor=white)
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
   ![React_Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+  ![Threejs](https://img.shields.io/badge/Threejs-black?logo=three.js&logoColor=white)
 
-- ![Nodejs](https://img.shields.io/badge/Node.js-black?logo=node-dot-js&logoColor=white")
+- ![NodeJS](https://img.shields.io/badge/Nodejs-%2343853D.svg?logo=node.js&logoColor=white)
   ![Nestjs](https://img.shields.io/badge/Nestjs-%23E0234E?logo=nestjs&logoColor=white")
   ![Adonisjs](https://img.shields.io/badge/-Adonisjs-black?&logo=Adonisjs)
   ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
@@ -43,45 +48,15 @@ I love to explore new technologies ✨.
 
 **I'm currently learning:**
 - English
-- TDD, DDD, Clean Architecture, SOLID
-- 🌱 🚀 ❤️ Interested and Learning all about: Nextjs Reactjs Nodejs Adonisjs Nestjs React Native Flutter
 
-**Experiences:**
-- 👨🏻‍💻 Developer with more then 2 years experience.
-- 🌱 I did an internship for 6 months (11/03/2019 a 05/09/2019) at the Agrosimulador company with
-  ![Laravel](https://img.shields.io/badge/-Laravel-black?&logo=Laravel)
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?&logo=MySQL)
-  ![HTML5](https://img.shields.io/badge/-HTML5-black?&logo=Html5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-black?&logo=Css3&logoColor=blue)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?&logo=JavaScript)
-- 🌱 I did an internship for 2 months (11/03/2019 a 05/05/2019) at the PackId company with
-  ![HTML5](https://img.shields.io/badge/-HTML5-black?&logo=Html5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-black?&logo=Css3&logoColor=blue)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?&logo=JavaScript)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?&logo=Postgresql&logoColor=blue)
-- 💻 I worked for 11 months (16/09/2019 a 02/08/2020) at Dotse Software Engineering company with
-  ![Laravel](https://img.shields.io/badge/-Laravel-black?&logo=Laravel)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?&logo=Postgresql&logoColor=blue)
-  ![Redis](https://img.shields.io/badge/-Redis-black?&logo=Redis)
-  ![HTML5](https://img.shields.io/badge/-HTML5-black?&logo=Html5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-black?&logo=Css3&logoColor=blue)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?&logo=JavaScript)
-  ![Jquery](https://img.shields.io/badge/-Jquery-black?&logo=Jquery)
-- 💻 I worked 10 months (03/08/2020 a 30/06/2021) at GeoLife company with
-  ![React](https://img.shields.io/badge/-React-black?&logo=React)
-  ![React_Native](https://img.shields.io/badge/-React_Native-black?&logo=React)
-  ![Adonisjs](https://img.shields.io/badge/-Adonisjs-black?&logo=Adonisjs)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?&logo=Postgresql&logoColor=blue)
-  ![Redis](https://img.shields.io/badge/-Redis-black?&logo=Redis)
-  ![Docker](https://img.shields.io/badge/-Docker-black?&logo=Docker)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?&logo=Kubernetes)
-  ![Material_UI](https://img.shields.io/badge/-Material_UI-black?&logo=Material-ui&logoColor=blue)
-  ![S3](https://img.shields.io/badge/-S3-black?&logo=Amazon-s3)
-  ![Socket.io](https://img.shields.io/badge/-Socket-black?&logo=socket.io)
+**I'm want to learning:**
+- TDD, DDD, Clean Architecture, SOLID
+- Flutter
+- 🌱 🚀 ❤️ Interested and Learning all about JavaScript
+
 
 ### 👣 Next Steps
 - ❤️ Connect with me :
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-angonese-12373a191/)](https://www.linkedin.com/in/rafael-angonese-12373a191/)
-[![rafael_angonese](https://img.shields.io/badge/-rafael__angonese-E4405F?&logo=Instagram&logoColor=white)](https://instagram.com/rafael_angonese)
 
 ![Snake animation](https://github.com/rafael-angonese/rafael-angonese/blob/output/github-contribution-grid-snake.svg)
