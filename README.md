@@ -1,18 +1,31 @@
-# ⚡ Rafael Angonese
+<h1 align="center"> <strong>Rafael Angonese</strong></h1>
 
+<p align="left">
 A Full-Stack Engineer from Brazil 🚀.
+</p>
 
+<p align="left">
 Creating worlds with letters and numbers 🌍.
+</p>
 
+<p align="left">
 I'm fascinated by technology and nature 🌊.
+</p>
 
+<p align="left">
 I have good experience with SPAs and RESTful APIs.
+</P>
 
+<p align="left">
 Currently, I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Unochapeco University 🏛.
+</p>
 
-<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="20%" />
+---
 
-### ⚡ Tech Stack 🛠️ Languages and Tools
+# 🔮 **Tech Stack**
+
+<img align="right" height="200" width="200" src="./assets/gifs/cat.webp" alt="Programmation" />
+
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?&logo=JavaScript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?&logo=TypeScript)
@@ -43,18 +56,19 @@ Currently, I'm a final year student pursuing Bachelors's in Computer Science �
   ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 
-
 **I'm currently learning:**
+
 - English
 
 **I'm want to learning:**
+
 - TDD, DDD, Clean Architecture, SOLID
 - Flutter
 - 🌱 🚀 ❤️ Interested and Learning all about JavaScript
 
-
 ### 👣 Next Steps
+
 - ❤️ Connect with me :
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-angonese-12373a191/)](https://www.linkedin.com/in/rafael-angonese-12373a191/)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-angonese-12373a191/)](https://www.linkedin.com/in/rafael-angonese-12373a191/)
 
 ![Snake animation](https://github.com/rafael-angonese/rafael-angonese/blob/output/github-contribution-grid-snake.svg)
