@@ -21,7 +21,6 @@
   <img width="19%" height="19%" alt="React" src="./assets/images/react.png" />
   <img width="19%" height="19%" alt="Node.js" src="./assets/images/nodejs.png" />
 </div>
----
 
  <div>
   <a href="https://github.com/rafael-angonese">
@@ -29,8 +28,6 @@
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-angonese&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-
----
 
 ![Snake animation](https://github.com/rafael-angonese/rafael-angonese/blob/output/github-contribution-grid-snake.svg)
 
