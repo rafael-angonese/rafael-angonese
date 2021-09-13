@@ -47,6 +47,6 @@
 
 ### Change the language
 
-<a href="./README-pt.md" alt="turn lenguage">
-  <img src="./assets/images/usa.jpg" align-content="flex-end" min-width="50px" max-width="50px" width="50px" align="left" alt="Turn Lenguage English">
+<a href="./README.md" alt="turn lenguage">
+  <img src="./assets/images/br.png" align-content="flex-end" min-width="50px" max-width="50px" width="50px" align="left" alt="Turn Lenguage Portugues">
 </a>

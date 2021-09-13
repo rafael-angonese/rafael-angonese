@@ -1,18 +1,18 @@
 # **Rafael Angonese**
 
-- A Front-end developer from Brazil 🚀.
+- Um desenvolvedor Front-end do Brasil 🚀.
 
-- Creating worlds with letters and numbers 🌍.
+- Criando mundos com letras e números 🌍.
 
-- I'm fascinated by technology and nature 🌊.
+- Eu sou fascinado pela tecnologia e natureza 🌊.
 
-- Currently, I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Unochapeco University 🏛.
+- Atualmente, eu estou no último ano do curso de Ciência da Computação 🎓 na universidade Unochapecó 🏛.
 
-- 🌱 🚀 ❤️ Interested and Learning all about Front-end
+- 🌱 🚀 ❤️ Interessado e aprendendo tudo sobre Front-end.
 
 ---
 
-# 🔮 **Tech Stack**
+# 🔮 **Tecnologias**
 
  <div>
   <img width="19%" height="19%" alt="Typescript" src="./assets/images/typescript.png" />
@@ -35,9 +35,9 @@
 
 ---
 
-# 👣 **Next Steps**
+# 👣 **Próxios passos**
 
-- ❤️ Connect with me
+- ❤️ Conecte-se comigo
 
 <a href="https://www.linkedin.com/in/rafael-angonese/">
 		<img alt="LinkedIn" src="https://img.shields.io/badge/Rafael%20Angonese-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -45,8 +45,8 @@
 
 ---
 
-### Change the language
+### Altere a linguagem
 
-<a href="./README-pt.md" alt="turn lenguage">
-  <img src="./assets/images/br.png" align-content="flex-end" min-width="50px" max-width="50px" width="50px" align="left" alt="Turn Lenguage Portugues">
+<a href="./README-en.md" alt="turn lenguage">
+  <img src="./assets/images/usa.jpg" align-content="flex-end" min-width="50px" max-width="50px" width="50px" align="left" alt="Alterar para língua inglesa">
 </a>
