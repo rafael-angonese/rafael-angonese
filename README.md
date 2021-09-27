@@ -14,13 +14,13 @@
 
 # 🔮 **Tecnologias**
 
- <div>
+ <!-- <div>
   <img width="19%" height="19%" alt="Typescript" src="./assets/images/typescript.png" />
   <img width="19%" height="19%" alt="Javascript" src="./assets/images/javascript.png" />
   <img width="19%" height="19%" alt="Next.js" src="./assets/images/nextjs.png" />
   <img width="19%" height="19%" alt="React" src="./assets/images/react.png" />
   <img width="19%" height="19%" alt="Node.js" src="./assets/images/nodejs.png" />
-</div>
+</div> -->
 
 <br>
 
